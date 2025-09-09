@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Amemome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amemome&show_icons=true&theme=tokyonight) 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lpchaze)](https://solved.ac/lpchaze)
